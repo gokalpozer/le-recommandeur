@@ -1,0 +1,56 @@
+*if not explicitly stated all playlist are made by spotify
+** file format: genre \t #of_songs_in_playlist \t playlist_link
+
+rock classics	172	https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U?si=a05fde70201a4cbf
+jazz classics	200	https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt?si=786577b1ba1947ec
+blues classics	70	https://open.spotify.com/playlist/37i9dQZF1DXd9rSDyQguIk?si=6e2645ded95f4963
+raggae classics	60	https://open.spotify.com/playlist/37i9dQZF1DXbSbnqxMTGx9?si=9f1109dc29214b5c
+dance classics	120	https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM?si=dd20de47c1a643bf
+christmas classics	66	https://open.spotify.com/playlist/37i9dQZF1DX6R7QUWePReA?si=46665d056a114b87
+r&b classics	100	https://open.spotify.com/playlist/37i9dQZF1DX04mASjTsvf0?si=2d1218344990425b
+the ultimate hit mix (pop)	168	https://open.spotify.com/playlist/37i9dQZF1DWUZMtnnlvJ9p?si=ea287e5d47874d43
+metal essentials	60	https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0?si=1636a139655a4867
+metal mix	50	https://open.spotify.com/playlist/37i9dQZF1EQpgT26jgbgRI?si=86a5fe103c5e4319
+country's greatest hits	99	https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR?si=656c19ecb92a4720
+essenciales (latin)	150	https://open.spotify.com/playlist/37i9dQZF1DX3omIq8ziEt6?si=0747e1718b834f2a
+feelin' good (soul)	100	https://open.spotify.com/playlist/37i9dQZF1DX9XIFQuFvzM4?si=faf0fe02328b473e
+k-pop daebak	50	https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1?si=cac635ae2dde4c5b
+k-pop rising	55	https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq?si=1ea3797ce22b428e
+ultimate indie	100	https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0?si=11e1a25505aa41f3
+classic punk	50	https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ?si=0d65f2850fcc49e6
+punk essentials	50	https://open.spotify.com/playlist/37i9dQZF1DXd6tJtr4qeot?si=c8bc53b76d9b4855
+all funked up	114	https://open.spotify.com/playlist/37i9dQZF1DX4WgZiuR77Ef?si=a44c987083354f04
+classic acoustic	100	https://open.spotify.com/playlist/37i9dQZF1DX504r1DvyvxG?si=6b97e7b1a8af4d09
+fresh folk	150	https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4?si=b24b2cfd16bc4654
+classical essentials	148	https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0?si=33a61481b65949fc
+
+
+
+
+##DEPRECATEDS
+
+#funk&soul classics	80	https://open.spotify.com/playlist/37i9dQZF1DWWvhKV4FBciw?si=d7018744dccf4fe9
+#all time pop hits by hirak	661	https://open.spotify.com/playlist/6Mf614QiAuop5ud9x5beBS?si=f5a68091779e409a
+#trance classics	50	https://open.spotify.com/playlist/37i9dQZF1DXbtYAdenGE9U?si=1897dac123ea4440
+
+
+*total	2232
+rock:172
+jazz:200
+blues:70
+raggae:60
+dance:120
+christmas:66
+r&b:100
+pop:168
+metal:110
+country:99
+latin:150
+soul:100
+k-pop:105
+indie:100
+punk:100
+funk:114
+acoustic:100
+folk:150
+classic:148
